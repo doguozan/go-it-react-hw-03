@@ -1,0 +1,23 @@
+.contact-container {
+  border: none;
+  border-radius: 10px;
+  display: flex;
+}
+
+.contact-name,
+.contact-number {
+  margin: 0;
+}
+
+button {
+  width: 200px;
+  margin: 20px auto;
+  padding: 10px;
+
+  border-radius: 5px;
+  text-align: center;
+}
+button:hover,
+button:focus {
+  background-color: #c1b2f7;
+}
